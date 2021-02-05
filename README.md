@@ -1,16 +1,15 @@
-### Hi there 👋
+## Welcome to my world :rocket:
 
-<!--
-**JoaoBorks/joaoborks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoborks&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![João's Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoborks&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me :video_game:
+
+I'm a passionate **game developer** based in São Paulo, Brazil. I've graduated in **Game Design** _(not Computer Science)_ in **2017**, and I'm pursuing the path of game engineering since **2014**. My ultimate goal is to become a full time **Indie Developer**.
+
+### Reach me at :earth_americas:
+
+[![Discord](https://img.shields.io/badge/-Discord-333?style=flat-square&labelColor=333&logo=discord&logoColor=white&link=https://discord.gg/8HwUtKDm)](https://discord.gg/8HwUtKDm)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoborks/)](https://www.linkedin.com/in/joaoborks/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.twitter.com/joaoborks/)](https://www.twitter.com/joaoborks/)
