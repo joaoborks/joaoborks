@@ -10,6 +10,5 @@ I'm a passionate **game developer** based in São Paulo, Brazil. I've graduated 
 
 ### Reach me at :earth_americas:
 
-[![Discord](https://img.shields.io/badge/-Discord-333?style=flat-square&labelColor=333&logo=discord&logoColor=white&link=https://discord.gg/8HwUtKDm)](https://discord.gg/8HwUtKDm)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoborks/)](https://www.linkedin.com/in/joaoborks/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.twitter.com/joaoborks/)](https://www.twitter.com/joaoborks/)
