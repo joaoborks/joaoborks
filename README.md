@@ -1,12 +1,14 @@
 ## Welcome to my world :rocket:
 
-[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoborks&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![João's GitHub stats](https://github-readme-stats-joaoborks.vercel.app/api?username=joaoborks&show_icons=true&theme=aura_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![João's Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoborks&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![João's Top Languagess](https://github-readme-stats-joaoborks.vercel.app/api/top-langs/?username=joaoborks&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me :video_game:
 
-I'm a passionate **game developer** based in São Paulo, Brazil. I've graduated in **Game Design** _(not Computer Science)_ in **2017**, and I'm pursuing the path of game engineering since **2014**. My ultimate goal is to become a full time **Indie Developer**.
+As an experienced game developer with a degree in **Game Design**, I have been studying game engineering and continuously learning new techniques and technologies related to game development. My main proficiency is working with **Unity**, and I enjoy tackling challenges and problem-solving in game engineering.
+
+Creator of [![My GameDev Tools](https://img.shields.io/badge/-My_GameDev_Tools-145da0?style=flat)](https://github.com/mygamedevtools)
 
 ### Reach me at :earth_americas:
 
